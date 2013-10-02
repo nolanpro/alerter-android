@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_register"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Re-register" />
+    
+    <item 
+        android:id="@+id/action_notification"
+        android:orderInCategory="50"
+        android:showAsAction="never"
+        android:title="Select Notification" />
+
+</menu>
